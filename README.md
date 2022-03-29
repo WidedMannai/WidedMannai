@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Lactalis](https://www.enviedebienmanger.fr/)
 
-- 🌱 I’m currently learning **reactJs , nodeJs**
+- 🌱 I’m currently learning **reactJs **
 
-- 💬 Ask me about **reactJS, JAVA JEE, nodeJS, GraphQL**
+- 💬 Ask me about **reactJS, JAVA JEE, nodeJS, GraphQL, Strapi, framework Spring**
 
 - 📫 How to reach me **widedmannai2013@gmail.com**
 
