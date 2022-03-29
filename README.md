@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **reactJs **
 
-- 💬 Ask me about **reactJS, JAVA JEE, nodeJS, GraphQL, Strapi, framework Spring**
+- 💬 Ask me about **reactJS, JAVA JEE, nodeJS, GraphQL, Strapi, Spring**
 
 - 📫 How to reach me **widedmannai2013@gmail.com**
 
